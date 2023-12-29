@@ -229,7 +229,7 @@
   visibility: hidden !important;
 }
 .theme-dark .placeholder_e68c63::before {
-  content: "Life is so much easier when you just take a time to chill";
+  content: "Life is so much easier when you just take time to chill";
   color: rgba(255, 255, 255, 0.2);
   font-family: "Poppins";
   font-size: 13px;
@@ -554,7 +554,7 @@ backdrop-filter: blur(5px);
 }
 /*welcome text*/
 .theme-dark body:before {
-  content: "Greetings " var(--user-name) "!";
+  content: "Hello, Icarus!";
   z-index: 1000000000000000000000000;
   color: #fff;
   background-color: #0000007a;
